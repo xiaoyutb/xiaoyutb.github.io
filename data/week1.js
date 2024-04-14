@@ -8,7 +8,7 @@ const weekData = [
     programIncome: "80W",
     state: 0,
     remark: "【达成目标】：10公里 + 上岛过夜2天",
-    img: "../../src/assets/images/teams/xiaoyu.png",
+    img: "/images/teams/xiaoyu.png",
   },
   {
     key: 3572310,
@@ -19,7 +19,7 @@ const weekData = [
     programIncome: "10W",
     state: 0,
     remark: "【达成目标】：劈砖🧱 X 10（不抬手）",
-    img: "../../src/assets/images/teams/kuaizi.png",
+    img: "/images/teams/kuaizi.png",
   },
   {
     key: 241123,
@@ -30,7 +30,7 @@ const weekData = [
     programIncome: "19W",
     state: 0,
     remark: "【达成目标】：跑步7公里 X 2 + 上岛过夜2天",
-    img: "../../src/assets/images/teams/huolitangzhu.jpg",
+    img: "/images/teams/huolitangzhu.jpg",
   },
   {
     key: 188,
