@@ -69,7 +69,7 @@ const weekData = [
     rid: 10504894,
     dyRoom: "https://www.douyu.com/topic/XYCXMTB?rid=10504894",
     programIncome: "0.7W",
-    state: 1,
+    state: 0,
     remark: "波比跳200个，奖励：年钻（命运哥奖励火箭）",
   },
   {
