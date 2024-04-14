@@ -24,7 +24,7 @@ const weekData = [
   {
     key: 241123,
     name: "火力堂主",
-    role: 2,
+    role: 1,
     rid: 241123,
     dyRoom: "https://www.douyu.com/topic/XYCXMTB?rid=241123",
     programIncome: "19W",
